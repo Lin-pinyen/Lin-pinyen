@@ -1,10 +1,10 @@
 ## Hi there , I'm yen.
 
-- skill
-  - python
-  - C
-  - C++
-  - Java
+## skill
+- python
+- C
+- C++
+- Java
 ## Collaborative project
 | Project | Description | Links |
 |---------|-------------|-------|
