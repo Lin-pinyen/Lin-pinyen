@@ -8,8 +8,8 @@
 ## Collaborative project
 | Project | Description | Links |
 |---------|-------------|-------|
-|  transcript-timestamper    |  Add timestamps to a transcript based on the audio file    |  [連結](https://github.com/ShamrockLee/transcript-timestamper)  |
-|   Abnormal detection    |   data mining final project | [ 連結](https://github.com/xup6y7vup/DataMining_Project)  |
+|  transcript-timestamper    |  Add timestamps to a transcript based on the audio file    |  [github link](https://github.com/ShamrockLee/transcript-timestamper)  |
+|   Abnormal detection    |   data mining final project | [github link](https://github.com/xup6y7vup/DataMining_Project)  |
 
 
 <!--
