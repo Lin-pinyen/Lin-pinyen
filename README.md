@@ -5,6 +5,10 @@
 - C
 - C++
 - Java
+## Course assignments/ practice
+| Course Name | Unit | Links |
+|---------|-------------|-------|
+|Machine Learning|NTUEE|https://github.com/Lin-pinyen/ML_Assignments_2025|
 ## Collaborative project
 | Project | Description | Links |
 |---------|-------------|-------|
